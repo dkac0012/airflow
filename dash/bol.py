@@ -6,8 +6,8 @@ import pymysql
 # MySQL에 연결하기 위한 변수 설정
 host = "localhost"
 port = 3306
-user = "afirst"
-password = "airf"
+user = ""
+password = ""
 database = "upbitbtc"
 
 # MySQL에서 데이터 가져오기
