@@ -75,7 +75,7 @@ x-airflow-common:
     # email
     AIRFLOW__SMTP__SMTP_HOST : 'smtp.gmail.com'
     AIRFLOW__SMTP__SMTP_USER : dkac0012@gmail.com
-    AIRFLOW__SMTP__SMTP_PASSWORD : ilxvewbwbvoqnfcx
+    AIRFLOW__SMTP__SMTP_PASSWORD :
     AIRFLOW__SMTP__SMTP_PORT : 587
     AIRFLOW__SMTP__SMTP_MAIL_FROM : dkac0012@gmail.com
   volumes:
